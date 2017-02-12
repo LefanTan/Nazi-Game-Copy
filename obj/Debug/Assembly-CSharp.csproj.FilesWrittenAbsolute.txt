@@ -1,0 +1,17 @@
+/Users/intern/Documents/Nazi/Temp/bin/Debug/UnityEngine.dll
+/Users/intern/Documents/Nazi/Temp/bin/Debug/UnityEditor.dll
+/Users/intern/Documents/Nazi/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/intern/Documents/Nazi/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/intern/Documents/Nazi/Temp/bin/Debug/UnityEngine.PlaymodeTestsRunner.dll
+/Users/intern/Documents/Nazi/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/intern/Documents/Nazi/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/intern/Documents/Nazi/Temp/bin/Debug/UnityEngine.VR.dll
+/Users/intern/Documents/Nazi/Temp/bin/Debug/Mono.Cecil.dll
+/Users/intern/Documents/Nazi/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/intern/Documents/Nazi/Temp/bin/Debug/Unity.DataContract.dll
+/Users/intern/Documents/Nazi/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/intern/Documents/Nazi/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/intern/Documents/Nazi/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/intern/Documents/Nazi/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/intern/Documents/Nazi/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/intern/Documents/Nazi/Temp/bin/Debug/Mono.Cecil.Mdb.dll
